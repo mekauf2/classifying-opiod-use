@@ -2,8 +2,8 @@
 CAPP 30254—Machine Learning for Public Policy \
 Group Members: Wesley Janson, Matt Kaufmann, Piper Kurtz, Angela The, Eujene Yum
 </p>
-**Final paper is "Classifying_Opioid_Prescriptions.pdf"**
-
+<b>Final paper is "Classifying_Opioid_Prescriptions.pdf"</b>
+</p>
 The purpose of this project is to predict whether a person is likely to be prescribed opioids based on data from 2014-2019 Medical Expenditure Panel Surveys (MEPS), which is a large-scale survey of families and individuals, their medical providers, and employers across the United States.
 
 ## To accomplish this task, we utilized 3 datasets:
@@ -11,7 +11,7 @@ The purpose of this project is to predict whether a person is likely to be presc
 - **Prescribed Medicine**: Prescribed any opioids, number of non-opioid prescriptions, insurance coverage
 - **Medical Conditions**: Number of conditions, whether any of their conditions were due to injury
 </p>
-Our final dataset has 45 feature variables with 65,871 observations.
+<i>Our final dataset has 45 feature variables with 65,871 observations.</i>
 
 ## Main directory
 - **identification.py**: Python script with functions assisting in identification of relevant feature variables to include in 
