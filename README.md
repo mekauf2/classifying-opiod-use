@@ -1,15 +1,15 @@
 # Classifying Opioid Prescription Using Machine Learning Techniques
 CAPP 30254—Machine Learning for Public Policy \
 Group Members: Wesley Janson, Matt Kaufmann, Piper Kurtz, Angela The, Eujene Yum
+**Final paper is "Classifying_Opioid_Prescriptions.pdf"**
 
 The purpose of this project is to predict whether a person is likely to be prescribed opioids based on data from 2014-2019 Medical Expenditure Panel Surveys (MEPS), which is a large-scale survey of families and individuals, their medical providers, and employers across the United States.
-
-**Final paper is "Classifying_Opioid_Prescriptions.pdf"**
 
 ## To accomplish this task, we utilized 3 datasets:
 - **Household Full-Year**: Household characteristic variables including race/ethnicity, sex, age, marital status, income, public assistance, employment, perceived physical and mental health status
 - **Prescribed Medicine**: Prescribed any opioids, number of non-opioid prescriptions, insurance coverage
 - **Medical Conditions**: Number of conditions, whether any of their conditions were due to injury
+</p>
 *Our final dataset has 45 feature variables with 65,871 observations.*
 
 ## Main directory
